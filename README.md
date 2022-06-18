@@ -3,14 +3,6 @@
 This python code help to learn forieng language like english with subtitle of movies.
 
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
 ## Usage
 
 You must put your subtitle file (i.e., .str or .vtt) in root directory of the project. Then run the code.
@@ -34,5 +26,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
