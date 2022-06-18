@@ -30,6 +30,8 @@ number of dict_in_order_new_words 328
 number of dict_unique_new_words 200
 ```
 
+This code just can extract words frome .str and .vtt files. If you file extention is .vtt you must run code and after you choose a .vtt file, the code make a new file form .vtt to .str and stopd. Hence you must run again a now choose .str file that made from .vtt file to extract words.
+
 ## How it works
 
 File and directories are something like bellow:
@@ -74,23 +76,21 @@ ensub_dict_unique_new_words.xlsx is a file that has all new unique words base on
 ## Donate us
 if you like our project and it's useful, feel free to donate us.
 
-BTC:
+Bitcoin(BTC): bc1qs2fatdfdvc5jyq4a0f5t7plmy8sxmyk08tq5e5
 
-ETH:
+Ethereum(ETH): 0x5847D46Bfed82a475ef4187cfBD55EF412C05093
 
-TRX:
+Tether(USDT-TRC20): TAmbZwJXDZ8bo2hjGXtNkTSEYi8dt2Xww8
 
-BTT:
+XRP(XRP): rqTpCtGtBEhcPjZLXfNTv3JbCdkRKGLCF
 
-USDT:
+Dogecoin(DOGE): DGZYMS6nnT3cBYwDtSD7VVubr1dSfykURC
 
-DOGE:
+TRON(TRX): TAmbZwJXDZ8bo2hjGXtNkTSEYi8dt2Xww8
 
-SHIB:
+BitTorrent-New(BTT-BEP20): 0x5847D46Bfed82a475ef4187cfBD55EF412C05093
 
-XMR:
-
-Decentraland (MANA):
+Decentraland(MANA-ERC20): 0x5847D46Bfed82a475ef4187cfBD55EF412C05093
 
 
 
