@@ -2,7 +2,6 @@
 
 This python code help to learn forieng language like english with subtitle of movies.
 
-
 ## Usage
 
 You must put your subtitle file (i.e., .str or .vtt) in root directory of the project. Then run the code.
@@ -33,47 +32,49 @@ number of dict_unique_new_words 200
 
 ## How it works
 
-File and direcotris in The project is something like bellow:
-tree
+File and directories are something like bellow:
+
 ```bash
 ├── datebase                          # Test files (alternatively `spec` or `tests`)
-│   ├── basic_knowledge.xlsx          # Load and stress tests
+│   ├── basic_knowledge.xlsx          # 
 ├── ensub.srt 
 ├── ensub.vtt
 ├── requirements.txt
 └── subtitleReader.py
 ```
+if you any word and thire meaning please insert in rows of basic_knowledge.xlsx.
 
-4 new file names and their usage are bellow:
 
+after run the code subtitleReader get all words and sentences in choosen subtitle and 4 new file names like bellow are created:
+
+
+```bash
 ensub_dict_in_order.xlsx         
 ensub_dict_unique.xlsx   
 ensub_dict_in_order_new_words.xlsx
 ensub_dict_unique_new_words.xlsx
-
-subtitleReader get all words and sentences in choosen subtitle and the make 4 new files.
+```
 
 first 2 new file create just by subtitle file.
 
 ```bash
-_dict_in_order.xlsx is a file that has all words base on order of showing in subtitle.
-_dict_unique.xlsx is a file that has all unique words base on order of showing in subtitle.
+ensub_dict_in_order.xlsx is a file that has all words base on order of showing in subtitle.
+ensub_dict_unique.xlsx is a file that has all unique words base on order of showing in subtitle.
 ```
 
 second 2 new file create base on words that exist in basic_knowledge.xlsx file in datebase folder.
+
+```bash
 .
-├── datebase                          # Test files (alternatively `spec` or `tests`)
-│   ├── basic_knowledge.xlsx          # Load and stress tests
-├── ensub.srt           # Load and stress tests
-├── ensub.vtt          # Load and stress tests
-├── requirements.txt          # Load and stress tests
-├── subtitleReader.py          # Load and stress tests
-└── ...
+├── datebase                           
+│   ├── basic_knowledge.xlsx          
+```
 
-_dict_in_order_new_words.xlsx is a file that has all new words base on order of showing in subtitle.
-_dict_unique_new_words.xlsx is a file that has all new unique words base on order of showing in subtitle.
+```bash
+ensub_dict_in_order_new_words.xlsx is a file that has all new words base on order of showing in subtitle.
+ensub_dict_unique_new_words.xlsx is a file that has all new unique words base on order of showing in subtitle.
+```
 
-the
 
 
 ## Donate us
