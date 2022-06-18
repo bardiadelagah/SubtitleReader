@@ -63,11 +63,11 @@ second 2 new file create base on words that exist in basic_knowledge.xlsx file i
 .
 ├── datebase                          # Test files (alternatively `spec` or `tests`)
 │   ├── basic_knowledge.xlsx          # Load and stress tests
-├── ensub.srt 
-├── ensub.vtt
-├── requirements.txt
-├── subtitleReader.py
-
+├── ensub.srt           # Load and stress tests
+├── ensub.vtt          # Load and stress tests
+├── requirements.txt          # Load and stress tests
+├── subtitleReader.py          # Load and stress tests
+└── ...
 
 _dict_in_order_new_words.xlsx is a file that has all new words base on order of showing in subtitle.
 _dict_unique_new_words.xlsx is a file that has all new unique words base on order of showing in subtitle.
