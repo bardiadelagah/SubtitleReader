@@ -74,7 +74,7 @@ ensub_dict_unique_new_words.xlsx is a file that has all new unique words base on
 
 
 ## Donate us
-if you like our project and it's useful, feel free to donate us.
+If you like our project and it's useful, feel free to donate us.
 
 Bitcoin(BTC): bc1qs2fatdfdvc5jyq4a0f5t7plmy8sxmyk08tq5e5
 
