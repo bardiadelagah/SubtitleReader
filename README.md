@@ -34,6 +34,7 @@ number of dict_unique_new_words 200
 ## How it works
 
 File and direcotris in The project is something like bellow:
+tree
 .
 ├── datebase                          # Test files (alternatively `spec` or `tests`)
 │   ├── basic_knowledge.xlsx          # Load and stress tests
