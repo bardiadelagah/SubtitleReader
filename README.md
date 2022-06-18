@@ -35,13 +35,13 @@ number of dict_unique_new_words 200
 
 File and direcotris in The project is something like bellow:
 tree
-.
+
 ├── datebase                          # Test files (alternatively `spec` or `tests`)
 │   ├── basic_knowledge.xlsx          # Load and stress tests
 ├── ensub.srt 
 ├── ensub.vtt
 ├── requirements.txt
-├── subtitleReader.py
+└── subtitleReader.py
 
 
 4 new file names and their usage are bellow:
