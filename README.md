@@ -1,4 +1,4 @@
-# subtitleReader
+# SubtitleReader
 
 This python code help to learn a foreign language like English with subtitles. If you want to learn new words from a film within 90 minutes, at least you must write the new word from the subtitle in 30 minutes, but this code does it for you in less than 1 minute! This code list is all new words in an excel file. Then, you can type the meaning of words in your new column in front of words. By this code, you can make your dictionary of new words in excel for each movie or series episode.
 
