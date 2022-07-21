@@ -1,6 +1,6 @@
 # subtitleReader
 
-This python code help to learn forieng language like english with subtitle of movies. If you want to learn new words of a movie with 90 minutes, at least you must writing new word from subtitle in 30 minutes but this code do it for you jus less tha 1 minute!
+This python code help to learn forieng language like english with subtitle of movies. If you want to learn new words of a movie with 90 minutes, at least you must writing new word from subtitle in 30 minutes but this code do it for you just less tha 1 minute!
 
 ## Usage
 
